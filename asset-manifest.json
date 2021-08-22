@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/from-ginger-with-love/static/css/main.11cd86e0.chunk.css",
+    "main.js": "/from-ginger-with-love/static/js/main.ff4235ce.chunk.js",
+    "main.js.map": "/from-ginger-with-love/static/js/main.ff4235ce.chunk.js.map",
+    "runtime-main.js": "/from-ginger-with-love/static/js/runtime-main.900ed0af.js",
+    "runtime-main.js.map": "/from-ginger-with-love/static/js/runtime-main.900ed0af.js.map",
+    "static/js/2.12446201.chunk.js": "/from-ginger-with-love/static/js/2.12446201.chunk.js",
+    "static/js/2.12446201.chunk.js.map": "/from-ginger-with-love/static/js/2.12446201.chunk.js.map",
+    "index.html": "/from-ginger-with-love/index.html",
+    "static/css/main.11cd86e0.chunk.css.map": "/from-ginger-with-love/static/css/main.11cd86e0.chunk.css.map",
+    "static/js/2.12446201.chunk.js.LICENSE.txt": "/from-ginger-with-love/static/js/2.12446201.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900ed0af.js",
+    "static/js/2.12446201.chunk.js",
+    "static/css/main.11cd86e0.chunk.css",
+    "static/js/main.ff4235ce.chunk.js"
+  ]
+}
