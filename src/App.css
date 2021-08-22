@@ -1,38 +1,44 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "PT Sans", sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.home,
+.services,
+.products,
+.sign-up {
   display: flex;
-  flex-direction: column;
+  height: 90vh;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: 3rem;
 }
 
-.App-link {
-  color: #61dafb;
+.services {
+  background-image: url("https://st4.depositphotos.com/3720453/20651/i/1600/depositphotos_206513174-stock-photo-beautiful-coastline-turquoise-ocean-beach.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 100px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.products {
+  background-image: url("https://image.shutterstock.com/image-vector/abstract-image-sunset-dawn-sun-260nw-321976277.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 100px;
+}
+
+.sign-up {
+  background-image: url("https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/0/79/07999b5b-5c88-5142-9a2d-1dc81583a381/5f5ab2c890d34.image.jpg?resize=1200%2C817");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
 }
